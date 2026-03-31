@@ -1,4 +1,4 @@
-# PriorityQueue for Unity C#
+# .Net PriorityQueue for Unity C#
 
 A Unity-compatible port of the official .NET `PriorityQueue` implementation.
 
